@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/antiphoton/Pismire/issues"
   },
-  "homepage": "https://github.com/antiphoton/Pismire#readme"
+  "homepage": "https://github.com/antiphoton/Pismire#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
